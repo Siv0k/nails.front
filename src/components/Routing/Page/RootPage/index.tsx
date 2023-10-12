@@ -68,7 +68,7 @@ const styles = {
     },
     welcomeBlock__image: (theme: Theme) => ({
         maxWidth: theme.spacing(54),
-        width: '100%',
+        width: '99%',
         maxHeight: theme.spacing(50),
     }),
     showingBlock: {
